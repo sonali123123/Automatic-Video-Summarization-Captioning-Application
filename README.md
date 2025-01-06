@@ -35,7 +35,7 @@ An AI-powered application that processes videos to generate summaries and captio
 The Home Page welcomes the user to the platform with a brief introduction to the app's features.
 
 
-![First_Page](https://github.com/user-attachments/assets/620004e0-90f1-45d2-96f3-0b88f31e168a)
+![First_Page](https://github.com/sonali123123/Automatic-Video-Summarization-Captioning-Application/blob/master/assets/Screenshots/First_Page.png)
 
 
 ### Process Video Page
@@ -48,7 +48,7 @@ Steps:
 3. The app will display the Summary and Caption once processing is complete.
 
 
-![Second_Page](https://github.com/user-attachments/assets/294a56bb-6e7d-4c9c-b075-af021d869010)
+![Second_Page](https://github.com/sonali123123/Automatic-Video-Summarization-Captioning-Application/blob/master/assets/Screenshots/Second_Page.png)
 
 ### About Page
 
@@ -57,7 +57,7 @@ The About Page provides information about the app’s features, technologies use
 
 
 
-![Third_Page](https://github.com/user-attachments/assets/14846d05-a6a7-4dfe-82f8-0fa7b238c378)
+![Third_Page](https://github.com/sonali123123/Automatic-Video-Summarization-Captioning-Application/blob/master/assets/Screenshots/Third_Page.png)
 
 ## Technologies Used
 
